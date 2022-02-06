@@ -217,7 +217,7 @@
 	<key>PayloadDisplayName</key>
 	<string>eduroam</string>
 	<key>PayloadIdentifier</key>
-	<string>KNUST-UITS</string>
+	<string>Draxille</string>
 	<key>PayloadOrganization</key>
 	<string>KNUST-UITS</string>
 	<key>PayloadRemovalDisallowed</key>
