@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>allowAddingGameCenterFriends</key>
+				<true />
+				<key>allowAppInstallation</key>
+				<true />
+				<key>allowAssistant</key>
+				<true />
+				<key>allowAssistantWhileLocked</key>
+				<true />
+				<key>allowBookstoreErotica</key>
+				<true />
+				<key>allowCamera</key>
+				<true />
+				<key>allowCloudBackup</key>
+				<true />
+				<key>allowCloudDocumentSync</key>
+				<true />
+				<key>allowDiagnosticSubmission</key>
+				<true />
+				<key>allowExplicitContent</key>
+				<true />
+				<key>allowGlobalBackgroundFetchWhenRoaming</key>
+				<true />
+				<key>allowInAppPurchases</key>
+				<true />
+				<key>allowiTunes</key>
+				<true />
+				<key>allowMultiplayerGaming</key>
+				<true />
+				<key>allowPassbookWhileLocked</key>
+				<true />
+				<key>allowPhotoStream</key>
+				<true />
+				<key>allowSafari</key>
+				<true />
+				<key>allowScreenShot</key>
+				<true />
+				<key>allowSharedStream</key>
+				<true />
+				<key>allowUntrustedTLSPrompt</key>
+				<true />
+				<key>allowVideoConferencing</key>
+				<true />
+				<key>allowVoiceDialing</key>
+				<true />
+				<key>forceEncryptedBackup</key>
+				<false />
+				<key>forceITunesStorePasswordEntry</key>
+				<false />
+				<key>PayloadDescription</key>
+				<string />
+				<key>PayloadDisplayName</key>
+				<string>Restrictions</string>
+				<key>PayloadIdentifier</key>
+				<string>KNUST-UITS.restrictions1</string>
+				<key>PayloadOrganization</key>
+				<string>KNUST-UITS</string>
+				<key>PayloadType</key>
+				<string>com.apple.applicationaccess</string>
+				<key>PayloadUUID</key>
+				<string>E8866E04-0BF1-4E4C-A319-9F14CC1244F7</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>ratingApps</key>
+				<integer>1000</integer>
+				<key>ratingMovies</key>
+				<integer>1000</integer>
+				<key>ratingRegion</key>
+				<string>us</string>
+				<key>ratingTVShows</key>
+				<integer>1000</integer>
+				<key>safariAllowAutoFill</key>
+				<true />
+				<key>safariAllowJavaScript</key>
+				<true />
+				<key>safariAllowPopups</key>
+				<true />
+				<key>safariForceFraudWarning</key>
+				<false />
+			</dict>
+			<dict>
+				<key>allowSimple</key>
+				<true />
+				<key>forcePIN</key>
+				<true />
+				<key>PayloadDescription</key>
+				<string>Configures security-related items.</string>
+				<key>PayloadDisplayName</key>
+				<string>Passcode</string>
+				<key>PayloadIdentifier</key>
+				<string>KNUST-UITS.passcode2</string>
+				<key>PayloadOrganization</key>
+				<string>KNUST-UITS</string>
+				<key>PayloadType</key>
+				<string>com.apple.mobiledevice.passwordpolicy</string>
+				<key>PayloadUUID</key>
+				<string>35767a57-6c34-4685-b2df-22b44dd10dce</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>EAPClientConfiguration</key>
+				<dict>
+					<key>AcceptEAPTypes</key>
+					<array>
+						<integer>21</integer>
+					</array>
+					<key>TTLSInnerAuthentication</key>
+					<string>PAP</string>
+				</dict>
+				<key>EncryptionType</key>
+				<string>WPA</string>
+				<key>HIDDEN_NETWORK</key>
+				<false />
+				<key>PayloadDescription</key>
+				<string>Configures wireless connectivity settings.</string>
+				<key>PayloadDisplayName</key>
+				<string>WiFi (KNUST WIFI)</string>
+				<key>PayloadIdentifier</key>
+				<string>KNUST-UITS.wifi3</string>
+				<key>PayloadOrganization</key>
+				<string>KNUST-UITS</string>
+				<key>PayloadType</key>
+				<string>com.apple.wifi.managed</string>
+				<key>PayloadUUID</key>
+				<string>4a1d59e9-222d-4bc8-9d02-43239dfafad8</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>ProxyType</key>
+				<string>None</string>
+				<key>SSID_STR</key>
+				<string>KNUST WIFI</string>
+			</dict>
+		</array>
+		<key>PayloadDescription</key>
+		<string>This is to help iPhone and Mac users to connect to the KNUST WIFI </string>
+		<key>PayloadDisplayName</key>
+		<string>KNUST 2</string>
+		<key>PayloadIdentifier</key>
+		<string>DRAXILLE 1</string>
+		<key>PayloadOrganization</key>
+		<string>KNUST-UITS</string>
+		<key>PayloadRemovalDisallowed</key>
+		<false />
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>414c3207-aef8-4bab-80c9-9e8bc048ecd3</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+	</dict>
+</plist>
